@@ -20,8 +20,8 @@ If it is not possible to reach the end, return -1.
 ```
 /*
 Program to implement Reverse a String
-Developed by: D.B.V.SAI GANESH
-Register Number:  212223240025
+Developed by: A.LAHARI
+Register Number:  212223230111
 */
 import java.util.Scanner;
 
